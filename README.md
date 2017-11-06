@@ -14,7 +14,7 @@
 
 #### 移动端请扫描下方二维码
 
-<img src="" width="250" height="250"/>
+<img src="https://raw.githubusercontent.com/YuxinChou/vue-wap-demo/master/screenshots/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9D%80%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="250" height="250"/>
 
 ## 技术栈
 
@@ -73,9 +73,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 项目截图
 
-<img src="" width="338" height="600"/>
+<img src="https://raw.githubusercontent.com/YuxinChou/vue-wap-demo/master/screenshots/preview.gif" width="338" height="600"/>
 
-<img src="" width="1000" height="850"/>
+<img src="https://raw.githubusercontent.com/YuxinChou/vue-wap-demo/master/screenshots/all%E5%90%88%E5%9B%BE.jpg" width="1000" height="850"/>
 
 （更多截图查看项目内screenshots，或者访问demo）
 
