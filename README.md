@@ -73,12 +73,12 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 项目截图
 
-<img src="https://raw.githubusercontent.com/YuxinChou/vue-wap-demo/master/screenshots/preview.gif" width="338" height="600"/>
-
-<img src="https://raw.githubusercontent.com/YuxinChou/vue-wap-demo/master/screenshots/all%E5%90%88%E5%9B%BE.jpg" width="1000" height="850"/>
+<img src="https://raw.githubusercontent.com/YuxinChou/vue-wap-demo/master/screenshots/all%E5%90%88%E5%9B%BE.jpg" width="1000" />
 
 （更多截图查看项目内screenshots，或者访问demo）
+（GIF动图文件过大，不放了，抱歉）
 
 ## 总结
 
+手机兼容性BUG陆续修复种...
 项目还在陆续更新中...
