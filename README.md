@@ -6,7 +6,13 @@
 
 说明1：目前demo的版本相对简单，后续将陆续更新
 
-说明2：对应的博文地址为[Vue教程--Wap端项目搭建从0到1（详解1）](http://www.jianshu.com/p/4618844c5df8) 
+说明2：对应的博文地址为
+
+[Vue教程--Wap端项目搭建从0到1（详解1）](http://www.jianshu.com/p/4618844c5df8) 
+
+[Vue教程--Wap端项目搭建从0到1（详解2）](http://www.jianshu.com/p/dbef30f680c3) 
+
+[Vue教程--Wap端项目搭建从0到1（详解3）](http://www.jianshu.com/p/147051979573) 
 
 ## 效果演示
 
