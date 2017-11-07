@@ -6,7 +6,7 @@
 
 说明1：目前demo的版本相对简单，后续将陆续更新
 
-说明2：对应的博文地址为[Vue教程--Wap端项目搭建从0到1（详解）]()  （博文尚未发布，请稍后）
+说明2：对应的博文地址为[Vue教程--Wap端项目搭建从0到1（详解1）](http://www.jianshu.com/p/4618844c5df8) 
 
 ## 效果演示
 
@@ -42,33 +42,33 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## 项目结构
 
 ```
-├── build                      // 构建相关  
-├── config                     // 配置相关
-├── dist                       // 打包的部署文件
-├── node_modules               // 模块安装的文件夹
-├── screenshots                // 项目截图
-├── src                        // 核心代码
-│   ├── assets                 // 静态资源
-│   ├── components             // 组件
-│   ├── page                	 // 页面
-│   ├── router                 // 路由
-│   ├── service              	 // 请求服务
-│   ├── store                  // 仓库存储
-│   ├── style                  // 样式
-│   ├── utils              	   // 公用方法
-│   ├── App.vue                // 入口页面
-│   └── main.js                // 入口 加载组件 初始化等
-├── static                     // 第三方不打包资源
-├── .babelrc                   // babel-loader 配置
-├── .editorconfig              // 代码编辑 配置项
-├── .eslintignore              // eslint 忽略项
-├── .eslintrc.js               // eslint 配置项
-├── .gitignore                 // git 忽略项
-├── favicon.ico                // favicon图标
-├── index.html                 // html模板
-├── package-lock.json          // package-lock.json
-├── package.json               // package.json
-└── README.md                  // 说明文档
+├── build                       // 构建相关  
+├── config                      // 配置相关
+├── dist                        // 打包的部署文件
+├── node_modules                // 模块安装的文件夹
+├── screenshots                 // 项目截图
+├── src                         // 核心代码
+│   ├── assets                  // 静态资源
+│   ├── components              // 组件
+│   ├── page                    // 页面
+│   ├── router                  // 路由
+│   ├── service                 // 请求服务
+│   ├── store                   // 仓库存储
+│   ├── style                   // 样式
+│   ├── utils                   // 公用方法
+│   ├── App.vue                 // 入口页面
+│   └── main.js                 // 入口 加载组件 初始化等
+├── static                      // 第三方不打包资源
+├── .babelrc                    // babel-loader 配置
+├── .editorconfig               // 代码编辑 配置项
+├── .eslintignore               // eslint 忽略项
+├── .eslintrc.js                // eslint 配置项
+├── .gitignore                  // git 忽略项
+├── favicon.ico                 // favicon图标
+├── index.html                  // html模板
+├── package-lock.json           // package-lock.json
+├── package.json                // package.json
+└── README.md                   // 说明文档
 ```
 
 ## 项目截图

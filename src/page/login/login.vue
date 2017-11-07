@@ -83,6 +83,15 @@
           
         }else{
           // 缓存用户数据
+          let email = response.data.adminInfo.email;
+          let token = response.data.tokenModel.token;
+          this.$store.commit('SET_AUTH_INFO',[
+            {
+              email: email,
+              token: token
+            }
+          ]);
+
 
           // 下面都是测试来的，
           // 还没有在store中添加对应的保存用户信息方法

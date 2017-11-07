@@ -27,29 +27,29 @@ const whiteList = ['/login', '/signup', '/forget', '/authredirect'];
 router.beforeEach((to, from, next) => {
     document.title = (to.name || '') + ' - vue wap demo';
     next();
-    // if (store.getters.token) {
-    //     if (to.path === '/login') {
-    //         next({
-    //             path: '/'
-    //         });
-    //     } else {
-    //         if (to.meta && to.meta.role) {
-    //             if (hasPermission(store.getters.roles, to.meta.role)) {
-    //                 next();
-    //             } else {
-    //                 next('/401');
-    //             }
-    //         } else {
-    //             next();
-    //         }
-    //     }
-    // } else {
-    //     if (whiteList.indexOf(to.path) !== -1) {
-    //         next()
-    //     } else {
-    //         next('/login')
-    //     }
-    // }
+    if (store.getters.token) {
+        if (to.path === '/login') {
+            next({
+                path: '/messages'
+            });
+        } else {
+            // if (to.meta && to.meta.role) {
+            //     if (hasPermission(store.getters.roles, to.meta.role)) {
+            //         next();
+            //     } else {
+            //         next('/401');
+            //     }
+            // } else {
+            next();
+            // }
+        }
+    } else {
+        if (whiteList.indexOf(to.path) !== -1) {
+            next()
+        } else {
+            next('/login')
+        }
+    }
 });
 
 /* eslint-disable no-new */
