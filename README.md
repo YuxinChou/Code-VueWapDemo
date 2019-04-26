@@ -14,13 +14,6 @@
 
 [Vue教程--Wap端项目搭建从0到1（详解3）](http://www.jianshu.com/p/147051979573) 
 
-## 效果演示
-
-[在线demo地址](http://www.knowing365.com)（请用chrome手机模式预览）
-
-#### 移动端请扫描下方二维码
-
-<img src="https://raw.githubusercontent.com/YuxinChou/vue-wap-demo/master/screenshots/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9D%80%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="250" height="250"/>
 
 ## 技术栈
 
